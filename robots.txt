@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: cuan365-kelaz.netlify.app/sitemap.xml
